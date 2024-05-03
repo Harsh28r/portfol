@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/Harsh28r.github.io/static/css/main.92b37f5e.css",
+    "main.js": "/Harsh28r.github.io/static/js/main.6acdacc6.js",
+    "static/css/64.bba8fa55.chunk.css": "/Harsh28r.github.io/static/css/64.bba8fa55.chunk.css",
+    "static/js/64.0d805da3.chunk.js": "/Harsh28r.github.io/static/js/64.0d805da3.chunk.js",
+    "static/css/769.b3cbb36b.chunk.css": "/Harsh28r.github.io/static/css/769.b3cbb36b.chunk.css",
+    "static/js/769.e971287f.chunk.js": "/Harsh28r.github.io/static/js/769.e971287f.chunk.js",
+    "static/media/stanfordLogo.png": "/Harsh28r.github.io/static/media/stanfordLogo.5a8e3a0a00949c93a9b8.png",
+    "static/media/Montserrat-Regular.ttf": "/Harsh28r.github.io/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/edu1.png": "/Harsh28r.github.io/static/media/edu1.9712053a3920d6287c16.png",
+    "static/media/Agustina.woff": "/Harsh28r.github.io/static/media/Agustina.eb0c59dda4cc308cba96.woff",
+    "static/media/Food Fire Logo.png": "/Harsh28r.github.io/static/media/Food Fire Logo.966158ee9951c3f00ec8.png",
+    "static/media/manOnTable.svg": "/Harsh28r.github.io/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
+    "static/media/logo-flipkart-png-flipkart-logo-vector-300.png": "/Harsh28r.github.io/static/media/logo-flipkart-png-flipkart-logo-vector-300.3a1a67f0fa3b06d4ca7c.png",
+    "static/media/contactMailDark.svg": "/Harsh28r.github.io/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
+    "static/media/developerActivity.svg": "/Harsh28r.github.io/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
+    "static/media/logo_small.png": "/Harsh28r.github.io/static/media/logo_small.cbae0e8487eec2d12792.png",
+    "static/media/mobbana-logo.png": "/Harsh28r.github.io/static/media/mobbana-logo.5c91483bbbe2ae1cffe3.png",
+    "static/media/skill.svg": "/Harsh28r.github.io/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
+    "index.html": "/Harsh28r.github.io/index.html",
+    "main.92b37f5e.css.map": "/Harsh28r.github.io/static/css/main.92b37f5e.css.map",
+    "main.6acdacc6.js.map": "/Harsh28r.github.io/static/js/main.6acdacc6.js.map",
+    "64.bba8fa55.chunk.css.map": "/Harsh28r.github.io/static/css/64.bba8fa55.chunk.css.map",
+    "64.0d805da3.chunk.js.map": "/Harsh28r.github.io/static/js/64.0d805da3.chunk.js.map",
+    "769.b3cbb36b.chunk.css.map": "/Harsh28r.github.io/static/css/769.b3cbb36b.chunk.css.map",
+    "769.e971287f.chunk.js.map": "/Harsh28r.github.io/static/js/769.e971287f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.92b37f5e.css",
+    "static/js/main.6acdacc6.js"
+  ]
+}
